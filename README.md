@@ -1,4 +1,4 @@
 # code-hub
-these is my first repository
+These is my first Git repository
 <br>
 Author - Karan Jadhav
